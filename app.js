@@ -2,9 +2,13 @@
 var name = prompt("What is your name?")
 alert("Hello, welcome to my website " + name)
 
+<<<<<<< HEAD
 alert("Do you love cars? if you do, press ok to continue")
 
 var favCar = prompt("Tell us what is your favorite car so we can provide you with great photos of it. You can choose from these cars you see 1)Tesla 2) Mercedes 3)Lamborghini")
+=======
+var favCar = prompt("Tell us what is your favorite car so we can provide you with great photos of it. You can choose from these cars you see")
+>>>>>>> 60257619f3cafc197df2a30689b828dc8686b4f5
 
 if(favCar == "Tesla")
 {
