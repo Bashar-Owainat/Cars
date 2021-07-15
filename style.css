@@ -1,0 +1,23 @@
+
+ #first{
+   height:1000px ;
+  width: 1500px ;
+   background-image: url("b4.jpg");
+ }
+
+
+body{
+  background-color: #E8F6EF
+}
+
+div{
+  display: inline-block;
+}
+
+#firstCar{
+  padding-right: 20px;
+}
+
+#secondCar{
+  padding-right: 20px;
+}
