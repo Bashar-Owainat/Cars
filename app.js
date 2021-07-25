@@ -2,6 +2,7 @@
 var name = prompt("What is your name?")
 alert("Hello, welcome to my website " + name)
 
+function userCar(){
 
 alert("Do you love cars? if you do, press ok to continue")
 
@@ -46,6 +47,13 @@ else if(favCar == "Mercedes")
     "</div>")
   }
 }
+}
 
+userCar()
 
+function rateUs(){
+var rate = prompt("What star rating would you give, 1-5?")
+alert("Thanks for you feedback")
+}
 
+rateUs()
